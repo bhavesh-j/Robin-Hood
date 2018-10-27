@@ -11,3 +11,7 @@ RobinHoood is the Virtual Reality supported game which is developed and tested o
 
 - Vivek Ghanchi([@vivekghanchi](https://github.com/vivekghanchi))
 - Akshay Nandwana([@anandwana001](https://github.com/anandwana001))
+
+## Contributor
+- Vivek Ghanchi 
+-Akshay Nandwana
